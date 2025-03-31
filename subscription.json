@@ -1,0 +1,31 @@
+{
+  "topicFilter": "test/topic_results",
+  "qos": 0,
+  "messages": [
+    {
+      "timestamp": 1613987245871,
+      "topic": "test/topic_results",
+      "payload": "HW3Group_Core Invoked on topic \"test/input_message\" with message \"{\"temperature\": 33.02005456829148,\"humidity\": 62.28757672867067}, Sequence: 0, from:myRaspberryPi\" at \"02/22/2021, 09:47:25\""
+    },
+    {
+      "timestamp": 1613987255932,
+      "topic": "test/topic_results",
+      "payload": "HW3Group_Core Invoked on topic \"test/input_message\" with message \"{\"temperature\": 26.09652361753534,\"humidity\": 69.55490573183515}, Sequence: 1, from:myRaspberryPi\" at \"02/22/2021, 09:47:35\""
+    },
+    {
+      "timestamp": 1613987265967,
+      "topic": "test/topic_results",
+      "payload": "HW3Group_Core Invoked on topic \"test/input_message\" with message \"{\"temperature\": 23.68990360242941,\"humidity\": 60.81624362917926}, Sequence: 2, from:myRaspberryPi\" at \"02/22/2021, 09:47:45\""
+    },
+    {
+      "timestamp": 1613987275900,
+      "topic": "test/topic_results",
+      "payload": "HW3Group_Core Invoked on topic \"test/input_message\" with message \"{\"temperature\": 30.232658498634425,\"humidity\": 67.41391494904076}, Sequence: 3, from:myRaspberryPi\" at \"02/22/2021, 09:47:55\""
+    },
+    {
+      "timestamp": 1613987285875,
+      "topic": "test/topic_results",
+      "payload": "HW3Group_Core Invoked on topic \"test/input_message\" with message \"{\"temperature\": 33.118551211003904,\"humidity\": 79.87819751334152}, Sequence: 4, from:myRaspberryPi\" at \"02/22/2021, 09:48:05\""
+    }
+  ]
+}
